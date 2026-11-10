@@ -1,0 +1,10 @@
+po_number,vendor_id,description,net_amount,gst_rate,currency,status,po_date
+PO-2026-0101,V001,Dell Latitude 5450 laptops x 5,310000,18,INR,open,2026-10-20
+PO-2026-0102,V002,Office stationery Q4 - A4 paper and gel pens,24500,18,INR,open,2026-10-22
+PO-2026-0103,V003,Housekeeping services Oct-Nov 2026,100000,18,INR,open,2026-10-01
+PO-2026-0104,V004,Freight Bengaluru to Chennai - October 2026,45000,18,INR,open,2026-10-03
+PO-2026-0105,V004,Warehousing charges Q4 2026,120000,18,INR,open,2026-10-03
+PO-2026-0106,V005,Marketing brochure printing A4 tri-fold 2000 units,36000,18,INR,open,2026-10-25
+PO-2026-0107,V001,Cisco 24-port network switches x 4,88000,18,INR,open,2026-10-28
+PO-2026-0108,V006,Electrical fittings for store refit,15000,18,INR,open,2026-10-15
+PO-2026-0109,V002,Printer toner cartridges,18000,18,INR,closed,2026-08-12

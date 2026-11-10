@@ -1,0 +1,7 @@
+vendor_id,vendor_name,gstin,state,bank_account,ifsc,status,email
+V001,TechSupply Solutions Pvt Ltd,29AABCT4821K1Z4,Karnataka,50100234567891,HDFC0001234,approved,accounts@techsupply.example
+V002,OfficeWorks India LLP,27AAFFO7712Q1ZN,Maharashtra,912020045678123,UTIB0000456,approved,billing@officeworks.example
+V003,GreenLeaf Facility Services Pvt Ltd,29AABCG5530M1ZD,Karnataka,38291045672,SBIN0040211,approved,finance@greenleaf.example
+V004,Swift Logistics Pvt Ltd,33AABCS9087L1ZU,Tamil Nadu,1234567890123,ICIC0001875,approved,ar@swiftlogistics.example
+V005,PrimePrint Media Pvt Ltd,29AABCP3348D1ZJ,Karnataka,60021145890,KKBK0008011,approved,accounts@primeprint.example
+V006,Apex Electricals Traders,07AAFFA6610H1ZR,Delhi,7788990011223,PUNB0123400,blocked,apex.billing@example.com
